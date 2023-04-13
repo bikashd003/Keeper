@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 <img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://media.licdn.com/dms/image/D5622AQHg01e332JioQ/feedshare-shrink_1280/0/1680027213854?e=1684368000&v=beta&t=mGoZXWnknuH8Q65nlE9TjphixyjTYCQhd2vQI-alt4A">
+<img width="1266" src="https://media.licdn.com/dms/image/D5622AQFUj-wEtF96-w/feedshare-shrink_1280/0/1680027213622?e=1684368000&v=beta&t=aLYF_BAame7JPuyUwJNZw85Bqbf5QFpxOiAJP3s4IGc">
 
 ## Available Scripts
 
